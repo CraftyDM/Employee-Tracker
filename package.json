@@ -1,0 +1,18 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "exports": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amberlie Arave",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "inquirer": "^9.1.1",
+    "mysql2": "^2.3.3",
+    "sequelizer": "^1.1.4"
+  }
+}
